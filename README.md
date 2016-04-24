@@ -1,6 +1,5 @@
-
+#ZTDraggableView
 ![image](https://github.com/zt7623869/ZTDraggableViewDemo/blob/master/演示.gif)
-
 ###基本功能
 基本的左右拖拽选择，同时也可点选按钮实现滑动
 ###动画效果
